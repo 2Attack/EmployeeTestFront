@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="panel">
-      <div class="panel-heading is-flex is-justify-content-space-between">
+      <div class="panel-heading is-flex is-justify-content-space-between is-align-items-center">
         <div>
           Добавление сотрудника
         </div>
